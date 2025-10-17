@@ -1,4 +1,4 @@
-## 🏃🏻‍♂️Nícolas Evangelista
+## Hi there 👋
 I'm a Backend Developer and a tech enthusiast. Since I was a kid, I've been trying to fix laptops, video games, and other electronics. Because of that, I've decided to major in computer engineering at the State University of Rio Grande do Sul in Brazil.
 
 ---
@@ -17,7 +17,7 @@ I'm a Backend Developer and a tech enthusiast. Since I was a kid, I've been tryi
 [![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nickevangelista&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### Github Streak
+### 💻Github Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nickevangelista&theme=radical&hide_border=true)](https://git.io/streak-stats)
 <!--
