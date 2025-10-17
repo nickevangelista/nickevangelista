@@ -12,6 +12,9 @@ Hello everyone, my name is Nicolas Evangelista and I'm a tech enthusiast. Since 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 
 ---
+### Minhas Estatísticas do GitHub
+
+[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nickevangelista&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nickevangelista/nickevangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
