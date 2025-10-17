@@ -13,13 +13,12 @@ I'm a Backend Developer and a tech enthusiast. Since I was a kid, I've been tryi
 
 ---
 ### 📊Stats
-[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nickevangelista&show_icons=true&theme=highcontrast)](https://github-readme-stats.vercel.app/api?username=nickevangelista&show_icons=true&theme=highcontrast&hide_border=true)
+[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nickevangelista&show_icons=true&theme=highcontrast)](https://github-readme-stats.vercel.app/api?username=nickevangelista&show_icons=true&theme=highcontrast&hide_border=false)
 
-[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nickevangelista&show_icons=true&theme=highcontrast&hide_border=true)](https://github-readme-stats.vercel.app/api?username=nickevangelista&show_icons=true&theme=highcontrast&hide_border=true)
 ---
 ### 💻Github Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nickevangelista&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nickevangelista&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
 <!--
 **nickevangelista/nickevangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
