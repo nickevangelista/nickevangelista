@@ -1,8 +1,7 @@
 ## Hi there 👋
 Hello everyone, my name is Nicolas Evangelista and I'm a tech enthusiast. Since I was a kid, I've been trying to fix laptops, video games, and other electronics. Because of that, I've decided to major in computer engineering at the State University of Rio Grande do Sul in Brazil.
 ### Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Nome da Ferramenta 1" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="Nome da Ferramenta 2" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Nome da Ferramenta 1" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="Nome da Ferramenta 2" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Nome da Ferramenta 3" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Nome da Ferramenta 4" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Nome da Ferramenta 4" width="40" height="40"/>
