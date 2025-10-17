@@ -19,7 +19,6 @@ I'm a Backend Developer and a tech enthusiast. Since I was a kid, I've been tryi
 ---
 ### 💻Github Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nickevangelista&theme=radical&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nickevangelista&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 <!--
 **nickevangelista/nickevangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
