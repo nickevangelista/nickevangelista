@@ -1,5 +1,10 @@
 ## Hi there 👋
 Hello everyone, my name is Nicolas Evangelista and I'm a tech enthusiast. Since I was a kid, I've been trying to fix laptops, video games, and other electronics. Because of that, I've decided to major in computer engineering at the State University of Rio Grande do Sul in Brazil.
+### Languages and Tools
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Nome da Ferramenta 1" width="40" height="40"/>
+<img src="URL_DO_ICONE_2" alt="Nome da Ferramenta 2" width="40" height="40"/>
+<img src="URL_DO_ICONE_3" alt="Nome da Ferramenta 3" width="40" height="40"/>
+<img src="URL_DO_ICONE_4" alt="Nome da Ferramenta 4" width="40" height="40"/>
 <!--
 **nickevangelista/nickevangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
