@@ -1,4 +1,4 @@
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there!+👋🏻!&center=true&size=20)
 Hello everyone, my name is Nicolas Evangelista and I'm a tech enthusiast. Since I was a kid, I've been trying to fix laptops, video games, and other electronics. Because of that, I've decided to major in computer engineering at the State University of Rio Grande do Sul in Brazil.
 
 ---
@@ -16,8 +16,6 @@ Hello everyone, my name is Nicolas Evangelista and I'm a tech enthusiast. Since 
 
 [![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nickevangelista&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Olá!Hi+there!+👋🏻!&center=true&size=20)
 <!--
 **nickevangelista/nickevangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
