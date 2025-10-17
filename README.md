@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello everyone, my name is Nicolas Evangelista and I'm a tech enthusiast. Since I was a kid, I've been trying to fix laptops, video games, and other electronics. Because of that, I've decided to major in computer engineering at the State University of Rio Grande do Sul in Brazil.
+I'm a Backend Developer and a tech enthusiast. Since I was a kid, I've been trying to fix laptops, video games, and other electronics. Because of that, I've decided to major in computer engineering at the State University of Rio Grande do Sul in Brazil.
 
 ---
 ### Languages and Tools
