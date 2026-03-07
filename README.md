@@ -11,9 +11,6 @@ I'm a Backend Developer and a tech enthusiast. Since I was a kid, I've been tryi
 <img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons@master/icons/file_type_vhdl.svg" alt="VHDL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 
----
-### 📊Stats
-[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nickevangelista&show_icons=true&theme=highcontrast)](https://github-readme-stats.vercel.app/api?username=nickevangelista&show_icons=true&theme=highcontrast&hide_border=false)
 
 ---
 ### 💻Github Streak
