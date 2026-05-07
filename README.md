@@ -16,7 +16,7 @@ I'm a Backend Developer and a tech enthusiast. Since I was a kid, I've been tryi
 ---
 ### 💻Github Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nickevangelista&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nickevangelista)](https://git.io/streak-stats)
 <!--
 **nickevangelista/nickevangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
